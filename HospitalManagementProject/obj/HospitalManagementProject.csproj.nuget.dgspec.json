@@ -1,0 +1,298 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\C#-Training\\HospitalManagementProject\\HospitalManagementProject.csproj": {}
+  },
+  "projects": {
+    "D:\\C#-Training\\Admincommon\\Admincommon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#-Training\\Admincommon\\Admincommon.csproj",
+        "projectName": "Admincommon",
+        "projectPath": "D:\\C#-Training\\Admincommon\\Admincommon.csproj",
+        "packagesPath": "C:\\Users\\naresh.boda\\.nuget\\packages\\",
+        "outputPath": "D:\\C#-Training\\Admincommon\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\naresh.boda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://meridianlink.jfrog.io/artifactory/api/nuget/lqb-nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#-Training\\BedInfo\\BedInfo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#-Training\\BedInfo\\BedInfo.csproj",
+        "projectName": "BedInfo",
+        "projectPath": "D:\\C#-Training\\BedInfo\\BedInfo.csproj",
+        "packagesPath": "C:\\Users\\naresh.boda\\.nuget\\packages\\",
+        "outputPath": "D:\\C#-Training\\BedInfo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\naresh.boda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://meridianlink.jfrog.io/artifactory/api/nuget/lqb-nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\C#-Training\\Admincommon\\Admincommon.csproj": {
+                "projectPath": "D:\\C#-Training\\Admincommon\\Admincommon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#-Training\\DoctorsRegistration\\DoctorsRegistration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#-Training\\DoctorsRegistration\\DoctorsRegistration.csproj",
+        "projectName": "DoctorsRegistration",
+        "projectPath": "D:\\C#-Training\\DoctorsRegistration\\DoctorsRegistration.csproj",
+        "packagesPath": "C:\\Users\\naresh.boda\\.nuget\\packages\\",
+        "outputPath": "D:\\C#-Training\\DoctorsRegistration\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\naresh.boda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://meridianlink.jfrog.io/artifactory/api/nuget/lqb-nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\C#-Training\\Admincommon\\Admincommon.csproj": {
+                "projectPath": "D:\\C#-Training\\Admincommon\\Admincommon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#-Training\\HospitalManagementProject\\HospitalManagementProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#-Training\\HospitalManagementProject\\HospitalManagementProject.csproj",
+        "projectName": "HospitalManagementProject",
+        "projectPath": "D:\\C#-Training\\HospitalManagementProject\\HospitalManagementProject.csproj",
+        "packagesPath": "C:\\Users\\naresh.boda\\.nuget\\packages\\",
+        "outputPath": "D:\\C#-Training\\HospitalManagementProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\naresh.boda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://meridianlink.jfrog.io/artifactory/api/nuget/lqb-nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\C#-Training\\Admincommon\\Admincommon.csproj": {
+                "projectPath": "D:\\C#-Training\\Admincommon\\Admincommon.csproj"
+              },
+              "D:\\C#-Training\\BedInfo\\BedInfo.csproj": {
+                "projectPath": "D:\\C#-Training\\BedInfo\\BedInfo.csproj"
+              },
+              "D:\\C#-Training\\DoctorsRegistration\\DoctorsRegistration.csproj": {
+                "projectPath": "D:\\C#-Training\\DoctorsRegistration\\DoctorsRegistration.csproj"
+              },
+              "D:\\C#-Training\\PatientsRegistraion\\PatientsRegistraion.csproj": {
+                "projectPath": "D:\\C#-Training\\PatientsRegistraion\\PatientsRegistraion.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#-Training\\PatientsRegistraion\\PatientsRegistraion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#-Training\\PatientsRegistraion\\PatientsRegistraion.csproj",
+        "projectName": "PatientsRegistraion",
+        "projectPath": "D:\\C#-Training\\PatientsRegistraion\\PatientsRegistraion.csproj",
+        "packagesPath": "C:\\Users\\naresh.boda\\.nuget\\packages\\",
+        "outputPath": "D:\\C#-Training\\PatientsRegistraion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\naresh.boda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://meridianlink.jfrog.io/artifactory/api/nuget/lqb-nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\C#-Training\\Admincommon\\Admincommon.csproj": {
+                "projectPath": "D:\\C#-Training\\Admincommon\\Admincommon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HospitalManagementProject/1.0.0": {
+        "dependencies": {
+          "Admincommon": "1.0.0",
+          "BedInfo": "1.0.0",
+          "DoctorsRegistration": "1.0.0",
+          "PatientsRegistraion": "1.0.0"
+        },
+        "runtime": {
+          "HospitalManagementProject.dll": {}
+        }
+      },
+      "Admincommon/1.0.0": {
+        "runtime": {
+          "Admincommon.dll": {}
+        }
+      },
+      "BedInfo/1.0.0": {
+        "dependencies": {
+          "Admincommon": "1.0.0"
+        },
+        "runtime": {
+          "BedInfo.dll": {}
+        }
+      },
+      "DoctorsRegistration/1.0.0": {
+        "dependencies": {
+          "Admincommon": "1.0.0"
+        },
+        "runtime": {
+          "DoctorsRegistration.dll": {}
+        }
+      },
+      "PatientsRegistraion/1.0.0": {
+        "dependencies": {
+          "Admincommon": "1.0.0"
+        },
+        "runtime": {
+          "PatientsRegistraion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HospitalManagementProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Admincommon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BedInfo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DoctorsRegistration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PatientsRegistraion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

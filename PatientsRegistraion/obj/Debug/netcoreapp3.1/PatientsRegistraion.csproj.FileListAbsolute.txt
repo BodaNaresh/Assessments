@@ -1,0 +1,13 @@
+D:\C#-Training\PatientsRegistraion\bin\Debug\netcoreapp3.1\PatientsRegistraion.deps.json
+D:\C#-Training\PatientsRegistraion\bin\Debug\netcoreapp3.1\PatientsRegistraion.dll
+D:\C#-Training\PatientsRegistraion\bin\Debug\netcoreapp3.1\PatientsRegistraion.pdb
+D:\C#-Training\PatientsRegistraion\bin\Debug\netcoreapp3.1\Admincommon.dll
+D:\C#-Training\PatientsRegistraion\bin\Debug\netcoreapp3.1\Admincommon.pdb
+D:\C#-Training\PatientsRegistraion\obj\Debug\netcoreapp3.1\PatientsRegistraion.csproj.AssemblyReference.cache
+D:\C#-Training\PatientsRegistraion\obj\Debug\netcoreapp3.1\PatientsRegistraion.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Training\PatientsRegistraion\obj\Debug\netcoreapp3.1\PatientsRegistraion.AssemblyInfoInputs.cache
+D:\C#-Training\PatientsRegistraion\obj\Debug\netcoreapp3.1\PatientsRegistraion.AssemblyInfo.cs
+D:\C#-Training\PatientsRegistraion\obj\Debug\netcoreapp3.1\PatientsRegistraion.csproj.CoreCompileInputs.cache
+D:\C#-Training\PatientsRegistraion\obj\Debug\netcoreapp3.1\PatientsRegistraion.csproj.CopyComplete
+D:\C#-Training\PatientsRegistraion\obj\Debug\netcoreapp3.1\PatientsRegistraion.dll
+D:\C#-Training\PatientsRegistraion\obj\Debug\netcoreapp3.1\PatientsRegistraion.pdb
