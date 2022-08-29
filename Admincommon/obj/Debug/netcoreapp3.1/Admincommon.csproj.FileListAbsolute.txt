@@ -1,0 +1,10 @@
+D:\C#-Training\Admincommon\bin\Debug\netcoreapp3.1\Admincommon.deps.json
+D:\C#-Training\Admincommon\bin\Debug\netcoreapp3.1\Admincommon.dll
+D:\C#-Training\Admincommon\bin\Debug\netcoreapp3.1\Admincommon.pdb
+D:\C#-Training\Admincommon\obj\Debug\netcoreapp3.1\Admincommon.csproj.AssemblyReference.cache
+D:\C#-Training\Admincommon\obj\Debug\netcoreapp3.1\Admincommon.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Training\Admincommon\obj\Debug\netcoreapp3.1\Admincommon.AssemblyInfoInputs.cache
+D:\C#-Training\Admincommon\obj\Debug\netcoreapp3.1\Admincommon.AssemblyInfo.cs
+D:\C#-Training\Admincommon\obj\Debug\netcoreapp3.1\Admincommon.csproj.CoreCompileInputs.cache
+D:\C#-Training\Admincommon\obj\Debug\netcoreapp3.1\Admincommon.dll
+D:\C#-Training\Admincommon\obj\Debug\netcoreapp3.1\Admincommon.pdb

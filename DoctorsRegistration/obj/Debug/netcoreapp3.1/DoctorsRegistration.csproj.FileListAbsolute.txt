@@ -1,0 +1,13 @@
+D:\C#-Training\DoctorsRegistration\bin\Debug\netcoreapp3.1\DoctorsRegistration.deps.json
+D:\C#-Training\DoctorsRegistration\bin\Debug\netcoreapp3.1\DoctorsRegistration.dll
+D:\C#-Training\DoctorsRegistration\bin\Debug\netcoreapp3.1\DoctorsRegistration.pdb
+D:\C#-Training\DoctorsRegistration\bin\Debug\netcoreapp3.1\Admincommon.dll
+D:\C#-Training\DoctorsRegistration\bin\Debug\netcoreapp3.1\Admincommon.pdb
+D:\C#-Training\DoctorsRegistration\obj\Debug\netcoreapp3.1\DoctorsRegistration.csproj.AssemblyReference.cache
+D:\C#-Training\DoctorsRegistration\obj\Debug\netcoreapp3.1\DoctorsRegistration.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Training\DoctorsRegistration\obj\Debug\netcoreapp3.1\DoctorsRegistration.AssemblyInfoInputs.cache
+D:\C#-Training\DoctorsRegistration\obj\Debug\netcoreapp3.1\DoctorsRegistration.AssemblyInfo.cs
+D:\C#-Training\DoctorsRegistration\obj\Debug\netcoreapp3.1\DoctorsRegistration.csproj.CoreCompileInputs.cache
+D:\C#-Training\DoctorsRegistration\obj\Debug\netcoreapp3.1\DoctorsRegistration.csproj.CopyComplete
+D:\C#-Training\DoctorsRegistration\obj\Debug\netcoreapp3.1\DoctorsRegistration.dll
+D:\C#-Training\DoctorsRegistration\obj\Debug\netcoreapp3.1\DoctorsRegistration.pdb

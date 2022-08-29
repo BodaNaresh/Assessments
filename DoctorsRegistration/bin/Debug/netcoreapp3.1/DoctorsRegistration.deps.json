@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DoctorsRegistration/1.0.0": {
+        "dependencies": {
+          "Admincommon": "1.0.0"
+        },
+        "runtime": {
+          "DoctorsRegistration.dll": {}
+        }
+      },
+      "Admincommon/1.0.0": {
+        "runtime": {
+          "Admincommon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoctorsRegistration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Admincommon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

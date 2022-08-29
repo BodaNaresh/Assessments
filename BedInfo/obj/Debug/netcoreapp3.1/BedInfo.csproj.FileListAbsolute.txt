@@ -1,0 +1,13 @@
+D:\C#-Training\BedInfo\bin\Debug\netcoreapp3.1\BedInfo.deps.json
+D:\C#-Training\BedInfo\bin\Debug\netcoreapp3.1\BedInfo.dll
+D:\C#-Training\BedInfo\bin\Debug\netcoreapp3.1\BedInfo.pdb
+D:\C#-Training\BedInfo\bin\Debug\netcoreapp3.1\Admincommon.dll
+D:\C#-Training\BedInfo\bin\Debug\netcoreapp3.1\Admincommon.pdb
+D:\C#-Training\BedInfo\obj\Debug\netcoreapp3.1\BedInfo.csproj.AssemblyReference.cache
+D:\C#-Training\BedInfo\obj\Debug\netcoreapp3.1\BedInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Training\BedInfo\obj\Debug\netcoreapp3.1\BedInfo.AssemblyInfoInputs.cache
+D:\C#-Training\BedInfo\obj\Debug\netcoreapp3.1\BedInfo.AssemblyInfo.cs
+D:\C#-Training\BedInfo\obj\Debug\netcoreapp3.1\BedInfo.csproj.CoreCompileInputs.cache
+D:\C#-Training\BedInfo\obj\Debug\netcoreapp3.1\BedInfo.csproj.CopyComplete
+D:\C#-Training\BedInfo\obj\Debug\netcoreapp3.1\BedInfo.dll
+D:\C#-Training\BedInfo\obj\Debug\netcoreapp3.1\BedInfo.pdb
