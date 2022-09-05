@@ -1,0 +1,17 @@
+D:\C#-Training\FranchiseLogin\bin\Debug\netcoreapp3.1\FranchiseLogin.deps.json
+D:\C#-Training\FranchiseLogin\bin\Debug\netcoreapp3.1\FranchiseLogin.dll
+D:\C#-Training\FranchiseLogin\bin\Debug\netcoreapp3.1\FranchiseLogin.pdb
+D:\C#-Training\FranchiseLogin\obj\Debug\netcoreapp3.1\FranchiseLogin.csproj.AssemblyReference.cache
+D:\C#-Training\FranchiseLogin\obj\Debug\netcoreapp3.1\FranchiseLogin.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Training\FranchiseLogin\obj\Debug\netcoreapp3.1\FranchiseLogin.AssemblyInfoInputs.cache
+D:\C#-Training\FranchiseLogin\obj\Debug\netcoreapp3.1\FranchiseLogin.AssemblyInfo.cs
+D:\C#-Training\FranchiseLogin\obj\Debug\netcoreapp3.1\FranchiseLogin.csproj.CoreCompileInputs.cache
+D:\C#-Training\FranchiseLogin\obj\Debug\netcoreapp3.1\FranchiseLogin.dll
+D:\C#-Training\FranchiseLogin\obj\Debug\netcoreapp3.1\FranchiseLogin.pdb
+D:\C#-Training\FranchiseLogin\bin\Debug\netcoreapp3.1\Franchise registration.dll
+D:\C#-Training\FranchiseLogin\bin\Debug\netcoreapp3.1\Interfaces.dll
+D:\C#-Training\FranchiseLogin\bin\Debug\netcoreapp3.1\Franchise registration.pdb
+D:\C#-Training\FranchiseLogin\bin\Debug\netcoreapp3.1\Interfaces.pdb
+D:\C#-Training\FranchiseLogin\obj\Debug\netcoreapp3.1\FranchiseLogin.csproj.CopyComplete
+D:\C#-Training\FranchiseLogin\bin\Debug\netcoreapp3.1\Employeereg.dll
+D:\C#-Training\FranchiseLogin\bin\Debug\netcoreapp3.1\Employeereg.pdb

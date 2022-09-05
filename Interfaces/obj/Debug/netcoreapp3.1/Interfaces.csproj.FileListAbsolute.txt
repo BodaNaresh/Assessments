@@ -1,0 +1,10 @@
+D:\C#-Training\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+D:\C#-Training\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+D:\C#-Training\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+D:\C#-Training\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.AssemblyReference.cache
+D:\C#-Training\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Training\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+D:\C#-Training\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+D:\C#-Training\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+D:\C#-Training\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+D:\C#-Training\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb

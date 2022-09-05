@@ -1,0 +1,13 @@
+D:\C#-Training\Employeereg\bin\Debug\netcoreapp3.1\Employeereg.deps.json
+D:\C#-Training\Employeereg\bin\Debug\netcoreapp3.1\Employeereg.dll
+D:\C#-Training\Employeereg\bin\Debug\netcoreapp3.1\Employeereg.pdb
+D:\C#-Training\Employeereg\obj\Debug\netcoreapp3.1\Employeereg.csproj.AssemblyReference.cache
+D:\C#-Training\Employeereg\obj\Debug\netcoreapp3.1\Employeereg.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Training\Employeereg\obj\Debug\netcoreapp3.1\Employeereg.AssemblyInfoInputs.cache
+D:\C#-Training\Employeereg\obj\Debug\netcoreapp3.1\Employeereg.AssemblyInfo.cs
+D:\C#-Training\Employeereg\obj\Debug\netcoreapp3.1\Employeereg.csproj.CoreCompileInputs.cache
+D:\C#-Training\Employeereg\obj\Debug\netcoreapp3.1\Employeereg.dll
+D:\C#-Training\Employeereg\obj\Debug\netcoreapp3.1\Employeereg.pdb
+D:\C#-Training\Employeereg\bin\Debug\netcoreapp3.1\Interfaces.dll
+D:\C#-Training\Employeereg\bin\Debug\netcoreapp3.1\Interfaces.pdb
+D:\C#-Training\Employeereg\obj\Debug\netcoreapp3.1\Employeereg.csproj.CopyComplete

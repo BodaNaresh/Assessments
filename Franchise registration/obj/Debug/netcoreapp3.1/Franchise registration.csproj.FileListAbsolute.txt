@@ -1,0 +1,13 @@
+D:\C#-Training\Franchise registration\bin\Debug\netcoreapp3.1\Franchise registration.deps.json
+D:\C#-Training\Franchise registration\bin\Debug\netcoreapp3.1\Franchise registration.dll
+D:\C#-Training\Franchise registration\bin\Debug\netcoreapp3.1\Franchise registration.pdb
+D:\C#-Training\Franchise registration\obj\Debug\netcoreapp3.1\Franchise registration.csproj.AssemblyReference.cache
+D:\C#-Training\Franchise registration\obj\Debug\netcoreapp3.1\Franchise registration.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Training\Franchise registration\obj\Debug\netcoreapp3.1\Franchise registration.AssemblyInfoInputs.cache
+D:\C#-Training\Franchise registration\obj\Debug\netcoreapp3.1\Franchise registration.AssemblyInfo.cs
+D:\C#-Training\Franchise registration\obj\Debug\netcoreapp3.1\Franchise registration.csproj.CoreCompileInputs.cache
+D:\C#-Training\Franchise registration\obj\Debug\netcoreapp3.1\Franchise registration.dll
+D:\C#-Training\Franchise registration\obj\Debug\netcoreapp3.1\Franchise registration.pdb
+D:\C#-Training\Franchise registration\bin\Debug\netcoreapp3.1\Interfaces.dll
+D:\C#-Training\Franchise registration\bin\Debug\netcoreapp3.1\Interfaces.pdb
+D:\C#-Training\Franchise registration\obj\Debug\netcoreapp3.1\Franchise registration.csproj.CopyComplete
