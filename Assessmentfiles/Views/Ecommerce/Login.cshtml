@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h6 style="color:brown">To buy the product please login to your Account</h6>
+<div class="container">
+    <form>
+      <div class="form-group">
+        <label for="exampleInputEmail1" style=" color:red">Email address</label>
+        <input type="email" class="form-control" id="exampleInputEmail1"style=" background-color:lightgoldenrodyellow" height="25" width="10" aria-describedby="emailHelp" placeholder="Enter email">
+        <small id="emailHelp" class="form-text text-muted" style=" color:red">We'll never share your email with anyone else.</small>
+      </div>
+      <div class="form-group">
+        <label for="exampleInputPassword1" style=" color:red">Password</label>
+        <input type="password" class="form-control" id="exampleInputPassword1" style=" background-color:lightgoldenrodyellow" height="25" width="10" placeholder="Password">
+      </div>
+      <div class="form-group form-check">
+        <input type="checkbox" class="form-check-input" id="exampleCheck1">
+        <label class="form-check-label" for="exampleCheck1">Check me out</label>
+      </div>
+      <button type="submit" class="btn btn-primary" onclick="location.href='@Url.Action("Home", "Ecommerce")'">Submit</button>
+    </form>
+</div>
+
